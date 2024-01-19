@@ -1,0 +1,5 @@
+Search produced 1 objects.
+ID    Label    Produced By                         Date Classified As      
+----- -------- ----------------------------------- ---- -------------------
+78098 iBook G3 Apple Computer, Inc. (Manufacturer) 1999 objects            
+               Jonathan Ive (Designer)                  tools and equipment

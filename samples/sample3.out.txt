@@ -1,0 +1,48 @@
+          Summary          
+---------------------------
+Accession Number Date Places    Department                                                      
+---------------- ---- --------- ----------------------------------------------------------------
+2000.76.1.1-.2   1999 Taiwan    American Decorative Arts Collection, Yale University Art Gallery
+                      Cupertino                                                                 
+
+
+          Label          
+-------------------------
+iBook G3
+
+
+          Produced By          
+-------------------------------
+Part         Name                 Timespan Nationalities
+------------ -------------------- -------- -------------
+Manufacturer Apple Computer, Inc. 1976–    American     
+Designer     Jonathan Ive         1967–    British      
+
+
+Classified As      
+-------------------
+objects            
+tools and equipment
+
+
+          Information          
+-------------------------------
+Type                Content                                                                         
+------------------- --------------------------------------------------------------------------------
+Access statement    On view*                                                                        
+Citations           <span class="lux_data">&quot;Acquisitions 2000,&quot; <em>Yale University Art   
+                    Gallery Bulletin</em> (2001): 149.</span>                                       
+Copyright Statement Copyright Artist/Estate/Foundation                                              
+Credit Line         Gift of Apple Computer, Inc.                                                    
+Culture             American                                                                        
+Dimensions          1 13/16 × 13 1/2 × 11 5/8 in., 6.6 lb. (4.6 × 34.3 × 29.5 cm, 2.99 kg)          
+Inscriptions        On battery on the bottom, in 3 columns.  1st column: "Apple Computer, Inc.      
+                    Cupertino, California 95014\ This device has not been authorized as required by 
+                    the rules of the Federal Communication\ Commission.  This devise is not, and may
+                    not be, offered for sale or lease, or sold or leased\, until authorization is   
+                    obtained."  2nd column: "my Family No.: 2453\ 24V--- 1.875A max"  3rd colunm: "I
+                    was Assembled in Taiwan.\ copyright 1999 Apple Computer, Inc. all rights        
+                    reserved.  Reg TMs in the U.S.A. and other countries."   Inside, on top of the  
+                    screen, "iBook".  Inside, the keyboard is labled as one would expect it.        
+Medium              Polycarbonate and magnesium                                                     
+Period              20th century                                                                    

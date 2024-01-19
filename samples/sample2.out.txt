@@ -1,0 +1,11 @@
+Search produced 3 objects.
+ID     Label                            Produced By               Date Classified As               
+------ -------------------------------- ------------------------- ---- ----------------------------
+12507  Le café de nuit (The Night Café) Vincent van Gogh (Artist) 1888 paintings                   
+                                                                       visual works                
+219923 Orchard Bordered by Cypresses    Vincent van Gogh (Artist) 1888 landscapes (representations)
+                                                                       paintings                   
+                                                                       visual works                
+52916  Square Saint-Pierre, Paris       Vincent van Gogh (Artist) 1887 landscapes (representations)
+                                                                       paintings                   
+                                                                       visual works                

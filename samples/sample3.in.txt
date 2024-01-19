@@ -1,0 +1,1 @@
+python luxdetails.py 78098
